@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID "TMPLDGYbuY0i"
 #define BLYNK_DEVICE_NAME "led"
-#define BLYNK_AUTH_TOKEN "QMu1Ejo9B0J0PxS_e2zD2ziJYN4tpb1b"
+#define BLYNK_AUTH_TOKEN "QMu1Ejo9B0J0PxS_e2zD2ziJYN4tpb1b"  //blynk app tokan code
 
 
 #define BLYNK_PRINT Serial
